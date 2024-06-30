@@ -1,6 +1,6 @@
 function Strike() {
     return ( 
-        <div>
+        <div className="strike strike-diagonal-1">
             
         </div>
      );
